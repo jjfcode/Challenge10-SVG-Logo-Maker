@@ -67,7 +67,7 @@ The generated SVG logo will be saved as logo.svg in the ./examples directory.
 
 ## Video
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1U5IrDDpDtFCxdYcPkgPK9eeCJ9EEkkpL/view)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1uLgkXjPNd0wcfzj-s_XaNC4dXksI6ZwL/view?usp=sharing)
 
 ## **Repo:**
 
